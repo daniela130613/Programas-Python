@@ -1,6 +1,6 @@
-# PROGRAMA 1. Programa que solicita tu nombre y después te immprime un saludo personalizado.
+# PROGRAMA 1.1. Programa que muestre tu nombre
 # Fecha de elaboración:2024/10/14
 # Elaborado por: Daniela Sahori Hinojosa Meza
 
-nombre = input("Dame tu nombre: ")
-print("Hola", nombre, "¡Bienvenido a Python!")
+
+print("Hola, mi nombre es Daniela")
